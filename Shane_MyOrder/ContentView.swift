@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Shane_MyOrder
 //
-//  Created by Shane Guther on 2021-09-28.
+//  Created by Shane Guther on 2021-09-28. - Refactored for core data A2 - 10/26
 //  Student ID: 991529673
 //
 
